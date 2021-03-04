@@ -1,5 +1,5 @@
 # Variables
-public class Variables{
+	public class Variables{
 public static void main (String[] args) {
 	byte numero1;//Declaración de variables
 	byte byte1;
